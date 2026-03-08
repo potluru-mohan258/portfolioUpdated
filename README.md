@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my personal portfolio website project.
 It showcases my profile, projects, and skills as a web developer.
 This portfolio website is created using **HTML and CSS**.
@@ -36,3 +37,6 @@ https://github.com/potluru-mohan258/PORTFOLIO
 ---
 
 This project is created for learning and portfolio demonstration purposes.
+=======
+# portfolioUpdated
+>>>>>>> 99719ade9cb91a863bc19474f1651922a0d94dd8
